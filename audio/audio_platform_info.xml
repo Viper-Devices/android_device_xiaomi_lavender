@@ -85,6 +85,7 @@
         <device name="SND_DEVICE_OUT_VOICE_SPEAKER_2_PROTECTED_VBAT" acdb_id="150"/>
         <device name="SND_DEVICE_IN_CAPTURE_VI_FEEDBACK_MONO_1" acdb_id="151"/>
         <device name="SND_DEVICE_IN_CAPTURE_VI_FEEDBACK_MONO_2" acdb_id="152"/>
+
         
         <device name="SND_DEVICE_OUT_SPEAKER_AND_HEADPHONES" acdb_id="124"/>
         <device name="SND_DEVICE_OUT_VOICE_HANDSET" acdb_id="18"/>
@@ -102,8 +103,8 @@
         <device name="SND_DEVICE_IN_VOICE_REC_TMIC" acdb_id="131"/>
         <device name="SND_DEVICE_IN_VOICE_REC_DMIC_FLUENCE" acdb_id="132"/>
         <device name="SND_DEVICE_OUT_VOICE_SPEAKER_PROTECTED" acdb_id="546"/>
-        <device name="SND_DEVICE_IN_HANDSET_MIC" acdb_id="19"/>
-        <device name="SND_DEVICE_IN_HANDSET_DMIC" acdb_id="41"/>
+        <device name="SND_DEVICE_IN_HANDSET_MIC" acdb_id="1"/>
+        <device name="SND_DEVICE_IN_HANDSET_DMIC" acdb_id="1"/>
         <device name="SND_DEVICE_IN_SPEAKER_MIC" acdb_id="35"/>
         <device name="SND_DEVICE_IN_SPEAKER_DMIC" acdb_id="37"/>
         <device name="SND_DEVICE_IN_HEADSET_MIC" acdb_id="51"/>
