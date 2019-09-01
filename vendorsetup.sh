@@ -20,6 +20,6 @@
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
 
-for var in eng user userdebug; do
-  add_lunch_combo havoc_lavender-$var
-done
+
+  add_lunch_combo viper_lavender-userdebug
+
