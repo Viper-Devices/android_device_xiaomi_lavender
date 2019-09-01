@@ -1,14 +1,14 @@
 [
   {
-    "repository" : "DarkDroidDev/proprietary_vendor_xiaomi_lavender",
+    "repository" : "Viper-Devices/proprietary_vendor_xiaomi_lavender",
     "target_path": "vendor/xiaomi/lavender",
     "branch": "pie",
     "remote": "github"
   },
   {
-    "repository" : "team-lavender/kernel_xiaomi_lavender",
+    "repository" : "Viper-Devices/android_kernel_xiaomi_lavender",
     "target_path": "kernel/xiaomi/lavender",
-    "branch": r9.0-caf",
+    "branch": pie",
     "remote": "github"
   },
   {
